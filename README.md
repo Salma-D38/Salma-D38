@@ -5,6 +5,10 @@
 
 - 🔭 I’m currently working on [Wildy-Gamy](https://github.com/WildCodeSchool-2024-02/JS-lyon-0224-P3-wildygamy)
 
+- 📫 How to reach me **s.desmazieres@yahoo.fr**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/salma-desmazieres-632039197/](https://www.linkedin.com/in/salma-desmazieres-632039197/)
+
 - ⚡ Fun fact **I 'm taurus ♉️ ... if you know that, you can know more about me**
 
 <h3 align="left">Connect with me:</h3>
